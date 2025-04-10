@@ -1,0 +1,36 @@
+# Build artifacts
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.vs/
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# Test results
+TestResults/
+
+# Unity-specific
+Library/
+Temp/
+Build/
+Builds/
+*.csproj.user
+*.unityproj
+*.pidb
+*.sln
+
+# Others
+.DS_Store
+Thumbs.db
